@@ -36,4 +36,45 @@ Continue - When a player interacts with a trigger item, they will move to the ne
 ### Non-Functional Requirements
 **Performance**  
 New scenes are quick to load, and dialogue appears quickly for the user to read.  
-**Usability**
+
+**Usability**  
+The menu will have an easy to understand layout and clear text.  
+
+**Reliability**  
+There will be consistent bug checks and maintenance of the software to ensure it functions correctly
+
+**Security**  
+This software will not collect data and therefore there are no security concerns
+
+## Social, Ethical and Legal Issues
+### Social Impact
+**Target Audience Considerations**  
+COME BACK TO THIS
+
+**Potential Risks/Benefits**  
+Well, I am dealing with a deeply loved series. And, unsurprisingly, people want the game to do justice to the book. The community can be very harsh whether or not they like how a book is interpreted, so there is always the risk that people don't like the design. On the other hand, people could really love the idea and the way the characters are portrayed. 
+
+### Ethical Responsibilities
+**User Data and Privacy**  
+This software will not collect any user data, and therfore there are no security issues or concerns.
+
+**Representation and Inclusion**  
+The scenes as well as character dialogue will all be taken from the book, so I see little reason why there would be issues with character representation.  
+
+**Content Sensitivity**  
+As far as I know, the book is fine. It is high fantasy, and largely avoids any controversial topics. It's a book made purely for enjoyment. As such, if people have issues with the content, they should just not use my software.  
+
+### Legal Considerations
+**Copyright and Intellectual Preperty**  
+First of all, yes there will be information sourced directly from the book such as quotes. However, this is not for any monetary gain whatsoever and I am a student. 
+
+**Terms Of Use**  
+According to smartcopying.edu.au states that the use of copyright material is allowed for educational purposes. That and the fact that I am not using this for any monetary gain, there aren't realistically any concerns.
+
+## Researching and Planning
+### Gantt Chart
+EW EW EW EW EW EW EW  
+
+### PMI Table - Existing UIs
+
+### PMI Table - Software Options
