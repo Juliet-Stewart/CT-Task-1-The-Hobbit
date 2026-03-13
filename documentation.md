@@ -24,14 +24,14 @@ PUT MINDMAP HERE
 This 'game' will allow users to interact with characters while exploring specific scenes from *'The Hobbit'* You can read dialogue from the books and move around the level/scene. It is aimed to engage fans with *'The Hobbit'* and create a cool immersive experience for users.  
 
 **Use Cases**  
-Dialogue - Users can interact with a character to get dialogue from them  
-Movement - Users will be able to move around the area  
-Continue - Users can progress to the next scene when they please  
+Dialogue - Users can press a key to get dialogue from a character  
+Movement - Users will be able to input movement keys to move around the area  
+Continue - Users can progress to the next scene by collecting an item.
 
 **Test Cases**  
-Dialogue - When the user presses the key to interact with a character, dialogue will appear  
-Movement - When the user input a movement direction, their character on screen will move  
-Continue - When a player interacts with a trigger item, they will move to the next scene 
+Dialogue - I will interact with every character in each level to ensure dialogue appears correctly  
+Movement - Ensure players can move with the use of arrow keys, the character should move when the buttons are pressed.  
+Continue - When a player collides with a trigger item, the next scene should start. Must test all scenes progress correctly. 
 
 ### Non-Functional Requirements
 **Performance**  
@@ -73,7 +73,7 @@ According to smartcopying.edu.au states that the use of copyright material is al
 
 ## Researching and Planning
 ### Gantt Chart
-EW EW EW EW EW EW EW  
+![Gantt_Chart](GanttChart.png)
 
 ### PMI Table - Existing UIs
 
