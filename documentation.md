@@ -49,7 +49,7 @@ This software will not collect data and therefore there are no security concerns
 ## Social, Ethical and Legal Issues
 ### Social Impact
 **Target Audience Considerations**  
-COME BACK TO THIS
+Hobbit fans primarily.
 
 **Potential Risks/Benefits**  
 Well, I am dealing with a deeply loved series. And, unsurprisingly, people want the game to do justice to the book. The community can be very harsh whether or not they like how a book is interpreted, so there is always the risk that people don't like the design. On the other hand, people could really love the idea and the way the characters are portrayed. 
@@ -62,7 +62,7 @@ This software will not collect any user data, and therfore there are no security
 The scenes as well as character dialogue will all be taken from the book, so I see little reason why there would be issues with character representation.  
 
 **Content Sensitivity**  
-As far as I know, the book is fine. It is high fantasy, and largely avoids any controversial topics. It's a book made purely for enjoyment. As such, if people have issues with the content, they should just not use my software.  
+As far as I know, the book is fine. It is high fantasy, and largely avoids any controversial topics. It's a book made purely for enjoyment. As such, if people have issues with the content, they should just not use my software. There is one small aspect. There are no female characters in this book. HOWEVER, I do not feel like this takes away from the story or book whatsoever, and I didn't even think about it until it was mentioned. If people seriously have an issue with this, like I've said in the past, just don't use this software. Easy. But realistically, users need to realise that this book was written in 1937. Of course it's going to have outdated gender representation.
 
 ### Legal Considerations
 **Copyright and Intellectual Preperty**  
