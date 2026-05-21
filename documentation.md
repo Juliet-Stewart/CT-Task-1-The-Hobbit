@@ -80,29 +80,23 @@ According to smartcopying.edu.au states that the use of copyright material is al
 
 
 ## Ongoing Evaluation
-### Term 2 Week 2
-**Provide screenshots of your progress this week.**  
-![Gantt_Chart](GandalfGuy.png)
-![Gantt_Chart](BilboBag.png)  
-
-
+### Term 2 Week 2. 
 **Outline your progress this week, including key tasks completed and any challenges you encountered.**
-Week 1 had no CT lessons
-**Analyse the most important design or functionality decisions you made and justify your choices.**
+Week 1 had no CT lessons, so week 2 is the start of the term basically. I made pixel art designs for both Bilbo and Gandalf.
 
+**Analyse the most important design or functionality decisions you made and justify your choices.**
+I also made a google forms to get feedback on said designs, which was good to get done.
 
 **Explain how you approached and resolved any difficulties or obstacles this week.**
-
+Drawing characters is difficult and tedious. Also, dont really have any clue whatsoever of how I'm actually planning to get everything done.
 
 **Evaluate your time management and workflow—what strategies were effective, and what could be improved?**
-
+The theory work took all of term 1, leaving not much time to actually make the software.
 
 **Outline your priorities for next week—what specific areas need further development or refinement?**
-
+Honestly starting to consider switching to a website. Its probably more realistic to get done.
 
 ### Term 2 Week 3
-**Provide screenshots of your progress this week.**
-![Gantt_Chart](StuffFromWeek3.png)
 **Outline your progress this week, including key tasks completed and any challenges you encountered.**
 Wow did I get stuff done this week. So, basically shifted to a website. That was fun. The main design was fairly easy to set up and it was quite sucessful, everything works.  
 
@@ -124,18 +118,17 @@ Ok, so this is basically prototype 2 done. So, now I need to focus on making it 
 
 
 ### Term 2 Week 3
-**Provide screenshots of your progress this week.**
-![Gantt_Chart](week4status.png)
 **Outline your progress this week, including key tasks completed and any challenges you encountered.**  
-
+Its lookig good. I've started to work on making it more aesthetically pleasing. This us the beginning of prototype 3. Going well.
 
 **Analyse the most important design or functionality decisions you made and justify your choices.**  
-
+I actually put some of my pixel aet designs in etc. Its looking not terrible anymore.
 
 **Explain how you approached and resolved any difficulties or obstacles this week.**  
-
+Its gonna be close. I need to get everything together by Thursday. Its achievable, bit most certainly will be difficult.
 
 **Evaluate your time management and workflow—what strategies were effective, and what could be improved?**  
-
+Im gonna need to work on the map at home. Its a key aspect that has to be done. I also need to do a few other ixons etc at home. Could've done this better if I had just know from the start I wouldn't get it done. Oh well.
 
 **Outline your priorities for next week—what specific areas need further development or refinement?**
+I need to do a bunch more pixel art of certain things. I plan to get them all done, as well as the info, and then just copy it all in on Thursday.
