@@ -1,13 +1,13 @@
 # 10CT Task 1
 ## Project Proposal
 ### 1 - Design Brief
-I am developing a game like program based on the novel: *The Hobbit* by *JRR Tolkein*.  It will be a game in the sense that you can interact with the characters and read dialogue from them. However, it will be a game revolving around certain scenes from the book, acting more as a unique way to visualise and interpret the book. This will be mainly directed towards people who like and have already read the book, however it can be played by people who haven't.
+I am developing a website based on the novel: *The Hobbit* by *JRR Tolkein*.  Thus website will be designed to introduce new fans to the basic info of the book, some characters as well as a map they can interact with.
 
 ### 2 - Book Choice and Justification
-Who hasn't heard of the hobbit? It is a book that everyone has heard of. Moreover, it is deeply loved by its fans. However it also has rich storytelling,  a diverse world, and awesome scenes. So, why not create an experience in which players can become a part of said scenes?
+Who hasn't heard of the hobbit? It is a book that everyone has heard of. It festures a rich story, characters and world. Hiwever a lot of information out there xan be full on. So, ehy not make a simplified version of a wiki page with less links to random characters youve never heard of.
 
 ### 3 - User Experience Type
-It will be a 2D "platformer" story based program. You will be able to move around and talk with characters, getting dialogue striaght from the books. It will be heavily reliant on the artstyle and the design. This may or may not change depending on how the task progresses.
+The user experience type will be a website, featuring different panels to take you to different locations on the website. You will be able to look up information on the author, the book itself, the characters, and view a map. This is aimed to increase an individual's general understanding of the book.
 
 ### 4 - Target Market
 This will be primarily focused towards already fans of the franchise. However, it can be played by others, although the story won't be fully fleshed out. It lets people interact and feel like a part of the story, like they're going on the adventure too.
@@ -76,5 +76,67 @@ According to smartcopying.edu.au states that the use of copyright material is al
 ![Gantt_Chart](GanttChart.png)
 
 ### PMI Table - Existing UIs
-Wow
+![Gantt_Chart](PMITableGames.png)
 ### PMI Table - Software Options
+
+
+## Ongoing Evaluation
+### Term 2 Week 2
+**Provide screenshots of your progress this week.**  
+![Gantt_Chart](GandalfGuy.png)
+![Gantt_Chart](BilboBag.png)  
+
+
+**Outline your progress this week, including key tasks completed and any challenges you encountered.**
+Week 1 had no CT lessons
+**Analyse the most important design or functionality decisions you made and justify your choices.**
+
+
+**Explain how you approached and resolved any difficulties or obstacles this week.**
+
+
+**Evaluate your time management and workflow—what strategies were effective, and what could be improved?**
+
+
+**Outline your priorities for next week—what specific areas need further development or refinement?**
+
+
+### Term 2 Week 3
+**Provide screenshots of your progress this week.**
+![Gantt_Chart](StuffFromWeek3.png)
+**Outline your progress this week, including key tasks completed and any challenges you encountered.**
+Wow did I get stuff done this week. So, basically shifted to a website. That was fun. The main design was fairly easy to set up and it was quite sucessful, everything works.  
+
+
+**Analyse the most important design or functionality decisions you made and justify your choices.**
+I definitely think this is faaar more achievable. This design has come together really well, and is working very well.  
+
+
+**Explain how you approached and resolved any difficulties or obstacles this week.**
+Well, we spoke about exactly how many lessons we had left. I realised how completely underprepared I was. So I bailed on my origional idea.  
+
+
+**Evaluate your time management and workflow—what strategies were effective, and what could be improved?**
+This was a good idea. That I am certain of. Glad I realised that at the start of week three and not the week before the assessment is due.  
+
+
+**Outline your priorities for next week—what specific areas need further development or refinement?**
+Ok, so this is basically prototype 2 done. So, now I need to focus on making it visually appealing to the user. That's what I need to do by the due date.
+
+
+### Term 2 Week 3
+**Provide screenshots of your progress this week.**
+![Gantt_Chart](week4status.png)
+**Outline your progress this week, including key tasks completed and any challenges you encountered.**  
+
+
+**Analyse the most important design or functionality decisions you made and justify your choices.**  
+
+
+**Explain how you approached and resolved any difficulties or obstacles this week.**  
+
+
+**Evaluate your time management and workflow—what strategies were effective, and what could be improved?**  
+
+
+**Outline your priorities for next week—what specific areas need further development or refinement?**
