@@ -1,19 +1,19 @@
 # 10CT Task 1
 ## Project Proposal
 ### 1 - Design Brief
-I am developing a website based on the novel: *The Hobbit* by *JRR Tolkein*.  This website will be designed to introduce new fans to the basic info of the book, some characters as well as a map they can interact with.  
+I am developing a website based on the novel: *The Hobbit* by *JRR Tolkien*.  This website will be designed to introduce new fans to the basic info of the book, some characters as well as a map they can interact with.  
 
 ### 2 - Book Choice and Justification
-Who hasn't heard of the hobbit? It is a book that everyone has heard of. It festures a rich story, characters and world. Hiwever a lot of information out there xan be full on. So, ehy not make a simplified version of a wiki page with less links to random characters youve never heard of.  
+Who hasn't heard of the hobbit? It is a book that everyone has heard of. It features a rich story, characters and world. However a lot of information out there can be full on. So, why not make a simplified version of a wiki page with less links to random characters you've never heard of.  
 
 ### 3 - User Experience Type
 The user experience type will be a website, featuring different panels to take you to different locations on the website. You will be able to look up information on the author, the book itself, the characters, and view a map. This is aimed to increase an individual's general understanding of the book.  
 
 ### 4 - Target Market
-This will be primarily focused towards new fans. The information will be relatively basic, aimed to help new fans understand a bjt more about the book.  
+This will be primarily focused towards new fans. The information will be relatively basic, aimed to help new fans understand a bit more about the book.  
 
 ### 5 - Software and Tools
-I have two options. Adobe XD, or Figma. Ive used Figma in th past and I didnt really like the design of the software. I also thing Adobe XD is just overall better suited to this task.  
+I have two options. Adobe XD, or Figma. I've used Figma in the past and I didn't really like the design of the software. I also think Adobe XD is just overall better suited to this task.  
 
 ### 6 - Initial Brainstorming
 PUT MINDMAP HERE
@@ -21,16 +21,41 @@ PUT MINDMAP HERE
 ## Requirements Outline
 ### Functional Requirements
 **Purpose of the Application**  
-To let new users consume information from *'The Hobbit'*. Such as character info, info about the author and book, as well as a map they can click on to learn about dofferent locations.  
+To let new users consume information from *'The Hobbit'*. Such as character info, info about the author and book, as well as a map they can click on to learn about different locations.  
 
 **Use Cases**  
-*Home Button* - The user will be able to click the home button from any oage to return home.  
+*Home Button* - The user will be able to click the home button from any page to return home.  
 *Map Icons* - The user will be able to click on multiple location icons which will send them to info about that location.  
-*Back Button* - From certain pages, users will be sble to return to the previous screen.  
-*Menu Buttons* - Users will be able to acess all pages from anywhere. Meaning they dont have to go to home everytime.  
+*Back Button* - From certain pages, users will be able to return to the previous screen.  
+*Menu Buttons* - Users will be able to access all pages from anywhere. Meaning they don't have to go to home every time.  
 
 **Test Cases**  
 Each of these use cases will be tested the same way. Click every button from every location. It will absolutely be tedious, but it's the only way to ensure all the buttons work.  
+
+### Non-Functional Requirements
+**Performance**  
+All the buttons should work. Yes that goes without saying, but it can be easy to miss a pathway or two. 
+
+**Usability**  
+It has to look nice. No one is gonna wanna use a boring, colourless website. so it is highly important I make it visually appealing.
+
+**Reliability**  
+The software is good, performs well and has no major issues.
+
+**Security**  
+This software will not collect any user data and therefore there are no security concerns.
+
+## Social, Ethical and Legal Issues
+### Social Impact
+**Target Audience Considerations**  
+People who want to read the hobbit or have just started and want to increase their general understanding of things.
+
+**Potential Risks/Benefits**  
+Well, I am dealing with a deeply loved series. People can be very critical when you mess with something beloved like this. Older fans also may nitpick the basic information, however it's aimed towards people that aren't experts of this series.
+
+### Ethical Responsibilities
+**User Data and Privacy**  
+This software will not collect any user data and therefore there are no security concerns.  
 
 ### Non-Functional Requirements
 **Performance**  
@@ -132,3 +157,15 @@ Im gonna need to work on the map at home. Its a key aspect that has to be done. 
 
 **Outline your priorities for next week—what specific areas need further development or refinement?**
 I need to do a bunch more pixel art of certain things. I plan to get them all done, as well as the info, and then just copy it all in on Thursday.
+
+## Feedback
+### Prototype 1
+Prototype 1 feedback was relatively positive. The only suggestions were giving Bilbo more shading, just like Gandalf had. I mainly tried shading Gandalf so It'd look less like he was in a grey hospital gown. If I get time at the end, I will try and upgrade his design, but it's not my biggest priority.  
+
+### Prototype 2
+Prototype 2 feedback was also positive, with users finding the layout and user experience appealing. 
+
+## Final Evaluation
+It was a lot of work to get this task done. I completely changed my design halfway through. Perhaps if I'd been more realistic from the start, I could've progressed quicker and not have to redo all the theory work. But, I do still think it was the right choice in the end. Otherwise, I doubt I'd have finished at all. My time management could've probably been better, but that's always the case with any assessments I do. I did actually end up working on it a bit at home, which definitely helped. I think the software I produced is good, and provides a good user experience. I would've definitely done more characters **if** I had time. But oh well. All in all, I finished.
+
+
