@@ -24,10 +24,10 @@ PUT MINDMAP HERE
 To let new users consume information from *'The Hobbit'*. Such as character info, info about the author and book, as well as a map they can click on to learn about dofferent locations.  
 
 **Use Cases**  
-Home Button - The user will be able to click the home button from any oage to return home.  
-Map Icons - The user will be able to click on multiple location icons which will send them to info about that location.  
-Back Button - From certain pages, users will be sble to return to the previous screen.  
-Menu Buttons - Users will be able to acess all pages from anywhere. Meaning they dont have to go to home everytime.  
+*Home Button* - The user will be able to click the home button from any oage to return home.  
+*Map Icons* - The user will be able to click on multiple location icons which will send them to info about that location.  
+*Back Button* - From certain pages, users will be sble to return to the previous screen.  
+*Menu Buttons* - Users will be able to acess all pages from anywhere. Meaning they dont have to go to home everytime.  
 
 **Test Cases**  
 Each of these use cases will be tested the same way. Click every button from every location. It will absolutely be tedious, but it's the only way to ensure all the buttons work.  
@@ -40,7 +40,7 @@ All the buttons should work. Yes that goes without saying, but it can be easy to
 It has to look nice. No one is gonna wanna use a boring, colourless website. so it is highly important I make it visually appealing.
 
 **Reliability**  
-
+The software is good, performs well and has no major issues.
 
 **Security**  
 This software will not collect any user data and therefore there are no security concerns.
@@ -51,21 +51,21 @@ This software will not collect any user data and therefore there are no security
 People who want to read the hobbit or have just started and want to increase their general understanding of things.
 
 **Potential Risks/Benefits**  
-Well, I am dealing with a deeply loved series. And, unsurprisingly, people want the game to do justice to the book. The community can be very harsh whether or not they like how a book is interpreted, so there is always the risk that people don't like the design. On the other hand, people could really love the idea and the way the characters are portrayed. 
+Well, I am dealing with a deeply loved series. People can be very critical when you mess with something beloved like this. Older fans also may nitpick the basic information, however its aimed towards people that arent experts of this series.
 
 ### Ethical Responsibilities
 **User Data and Privacy**  
 This software will not collect any user data, and therfore there are no security issues or concerns.
 
 **Representation and Inclusion**  
-The scenes as well as character dialogue will all be taken from the book, so I see little reason why there would be issues with character representation.  
+I cant include sll the characters. If I had much more time Im sure I could continue to add them. However that isnt realistic for this project. Some people may get grumpy over the lack if their favourite character.
 
 **Content Sensitivity**  
 As far as I know, the book is fine. It is high fantasy, and largely avoids any controversial topics. It's a book made purely for enjoyment. As such, if people have issues with the content, they should just not use my software. There is one small aspect. There are no female characters in this book. HOWEVER, I do not feel like this takes away from the story or book whatsoever, and I didn't even think about it until it was mentioned. If people seriously have an issue with this, like I've said in the past, just don't use this software. Easy. But realistically, users need to realise that this book was written in 1937. Of course it's going to have outdated gender representation.
 
 ### Legal Considerations
 **Copyright and Intellectual Preperty**  
-First of all, yes there will be information sourced directly from the book such as quotes. However, this is not for any monetary gain whatsoever and I am a student. 
+First of all, yes there will be information sourced and characters sourced from the book. However, this is not for any monetary gain whatsoever and I am a student. 
 
 **Terms Of Use**  
 According to smartcopying.edu.au states that the use of copyright material is allowed for educational purposes. That and the fact that I am not using this for any monetary gain, there aren't realistically any concerns.
