@@ -34,21 +34,21 @@ Each of these use cases will be tested the same way. Click every button from eve
 
 ### Non-Functional Requirements
 **Performance**  
-New scenes are quick to load, and dialogue appears quickly for the user to read.  
+All the buttons should work. Yes that goes without saying, but it can be easy to miss a pathway or two. 
 
 **Usability**  
-The menu will have an easy to understand layout and clear text.  
+It has to look nice. No one is gonna wanna use a boring, colourless website. so it is highly important I make it visually appealing.
 
 **Reliability**  
-There will be consistent bunsdg checks and maintenance of the software to ensure it functions correctly
+
 
 **Security**  
-This software will not collect data and therefore there are no security concerns
+This software will not collect any user data and therefore there are no security concerns.
 
 ## Social, Ethical and Legal Issues
 ### Social Impact
 **Target Audience Considerations**  
-Hobbit fans primarily.
+People who want to read the hobbit or have just started and want to increase their general understanding of things.
 
 **Potential Risks/Benefits**  
 Well, I am dealing with a deeply loved series. And, unsurprisingly, people want the game to do justice to the book. The community can be very harsh whether or not they like how a book is interpreted, so there is always the risk that people don't like the design. On the other hand, people could really love the idea and the way the characters are portrayed. 
