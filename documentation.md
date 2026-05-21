@@ -16,7 +16,7 @@ This will be primarily focused towards new fans. The information will be relativ
 I have two options. Adobe XD, or Figma. I've used Figma in the past and I didn't really like the design of the software. I also think Adobe XD is just overall better suited to this task.  
 
 ### 6 - Initial Brainstorming
-PUT MINDMAP HERE
+Mindmap attached to hand in.
 
 ## Requirements Outline
 ### Functional Requirements
