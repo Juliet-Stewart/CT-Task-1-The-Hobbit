@@ -1,19 +1,19 @@
 # 10CT Task 1
 ## Project Proposal
 ### 1 - Design Brief
-I am developing a website based on the novel: *The Hobbit* by *JRR Tolkein*.  Thus website will be designed to introduce new fans to the basic info of the book, some characters as well as a map they can interact with.
+I am developing a website based on the novel: *The Hobbit* by *JRR Tolkein*.  This website will be designed to introduce new fans to the basic info of the book, some characters as well as a map they can interact with.  
 
 ### 2 - Book Choice and Justification
-Who hasn't heard of the hobbit? It is a book that everyone has heard of. It festures a rich story, characters and world. Hiwever a lot of information out there xan be full on. So, ehy not make a simplified version of a wiki page with less links to random characters youve never heard of.
+Who hasn't heard of the hobbit? It is a book that everyone has heard of. It festures a rich story, characters and world. Hiwever a lot of information out there xan be full on. So, ehy not make a simplified version of a wiki page with less links to random characters youve never heard of.  
 
 ### 3 - User Experience Type
-The user experience type will be a website, featuring different panels to take you to different locations on the website. You will be able to look up information on the author, the book itself, the characters, and view a map. This is aimed to increase an individual's general understanding of the book.
+The user experience type will be a website, featuring different panels to take you to different locations on the website. You will be able to look up information on the author, the book itself, the characters, and view a map. This is aimed to increase an individual's general understanding of the book.  
 
 ### 4 - Target Market
-This will be primarily focused towards already fans of the franchise. However, it can be played by others, although the story won't be fully fleshed out. It lets people interact and feel like a part of the story, like they're going on the adventure too.
+This will be primarily focused towards new fans. The information will be relatively basic, aimed to help new fans understand a bjt more about the book.  
 
 ### 5 - Software and Tools
-I plan to use Unity for the creation of this task. It is an engine I am familiar with and I can avoid learning how to uses a whole new system which will save me time. If for some reason Unity is having issues, one of my peers did mention Godot, which I could use as well.
+I have two options. Adobe XD, or Figma. Ive used Figma in th past and I didnt really like the design of the software. I also thing Adobe XD is just overall better suited to this task.  
 
 ### 6 - Initial Brainstorming
 PUT MINDMAP HERE
@@ -21,17 +21,16 @@ PUT MINDMAP HERE
 ## Requirements Outline
 ### Functional Requirements
 **Purpose of the Application**  
-This 'game' will allow users to interact with characters while exploring specific scenes from *'The Hobbit'* You can read dialogue from the books and move around the level/scene. It is aimed to engage fans with *'The Hobbit'* and create a cool immersive experience for users.  
+To let new users consume information from *'The Hobbit'*. Such as character info, info about the author and book, as well as a map they can click on to learn about dofferent locations.  
 
 **Use Cases**  
-Dialogue - Users can press a key to get dialogue from a character  
-Movement - Users will be able to input movement keys to move around the area  
-Continue - Users can progress to the next scene by collecting an item.
+Home Button - The user will be able to click the home button from any oage to return home.  
+Map Icons - The user will be able to click on multiple location icons which will send them to info about that location.  
+Back Button - From certain pages, users will be sble to return to the previous screen.  
+Menu Buttons - Users will be able to acess all pages from anywhere. Meaning they dont have to go to home everytime.  
 
 **Test Cases**  
-Dialogue - I will interact with every character in each level to ensure dialogue appears correctly  
-Movement - Ensure players can move with the use of arrow keys, the character should move when the buttons are pressed.  
-Continue - When a player collides with a trigger item, the next scene should start. Must test all scenes progress correctly. 
+Each of these use cases will be tested the same way. Click every button from every location. It will absolutely be tedious, but it's the only way to ensure all the buttons work.  
 
 ### Non-Functional Requirements
 **Performance**  
@@ -41,7 +40,7 @@ New scenes are quick to load, and dialogue appears quickly for the user to read.
 The menu will have an easy to understand layout and clear text.  
 
 **Reliability**  
-There will be consistent bug checks and maintenance of the software to ensure it functions correctly
+There will be consistent bunsdg checks and maintenance of the software to ensure it functions correctly
 
 **Security**  
 This software will not collect data and therefore there are no security concerns
